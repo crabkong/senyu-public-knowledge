@@ -1,0 +1,24 @@
+{
+  "edition": "public-redacted",
+  "sourceSnapshotDate": "2026-10-12",
+  "excludedCategories": [
+    "整个加密产品库：原始Word、配方、预览图和产品检索片段",
+    "全部研发草案、潜力配方、版本、工艺结果、新老历史及生成报告",
+    "企业内部工艺Word及其派生工艺单元、检索片段、相关路线",
+    "专利证书、权属变更和终止通知、旧助手程序及数据库",
+    "环境配置、账号、密码、API密钥、解密密钥、部署地址、日志和运行缓存",
+    "完整应用源代码、内部研究笔记；仅导出可公开的内置知识数据"
+  ],
+  "exclusionCounts": {
+    "unfiltered_source_catalog_or_research_notes": 5,
+    "confidential_cross_reference": 15,
+    "internal_process_units": 12,
+    "internal_process_routes": 4,
+    "route_depends_on_internal_unit": 11,
+    "internal_process_reference": 1,
+    "internal_process_rag": 40,
+    "patent_non_specification_assets": 100,
+    "industry_confidential_cross_reference": 1
+  },
+  "notAFullRestoreBackup": true
+}
